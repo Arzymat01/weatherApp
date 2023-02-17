@@ -1,5 +1,5 @@
 import 'package:flutter/cupertino.dart';
-import 'package:weather_app1/constants/app.colors.dart';
+import 'package:weather_app1/src/constants/app.colors.dart';
 
 class ApptextStyles {
   static const TextStyle appBarStyle = TextStyle(
